@@ -6,10 +6,10 @@ Support files for the Internoise 2021 paper "MEMS digital microphone and Arduino
 
 
 ## Folder structure:
-  - ```/Audio samples:``` Audio samples used in the research.
+  - ```/Audio samples:``` Audio samples recorded with the MEMS microphone used in the prototype.
   - ```/Codes:``` Code examples as cited in the paper.
   - ```/presentation:``` PDF conference presentation of the paper.
-  - ```/Recordings:``` Audio samples recorded with the MEMS microphone used in the prototype.
+  - ```/Recordings:``` Audio recordings used in the research.
 
 
 
