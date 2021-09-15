@@ -16,7 +16,7 @@ Support files for the Internoise 2021 paper "MEMS digital microphone and Arduino
 
 # Cite us
 
-> F. R. Mello; W. D’A. Fonseca; P. H. Mareze. MEMS digital microphone and Arduino compatible microcontroller: an embedded system for noise monitoring. In *50th International Congress and Exposition on Noise Control Engineering - Internoise 2021*, pages 1–12, Washington, DC, USA, Aug. 2021.
+> F. R. Mello; W. D’A. Fonseca; P. H. Mareze. MEMS digital microphone and Arduino compatible microcontroller: an embedded system for noise monitoring. In *50th International Congress and Exposition on Noise Control Engineering - Internoise 2021*, pages 1–12, Washington, DC, USA, Aug. 2021. doi: [10.3397/IN-2021-2557](https://doi.org/10.3397/IN-2021-2557).
 
 **Bibtex:**
 ```
@@ -28,5 +28,6 @@ Support files for the Internoise 2021 paper "MEMS digital microphone and Arduino
   address   = {Washington, DC, USA},
   month     = {Aug.},
   pages     = {1--12},
+  doi       = {10.3397/IN-2021-2557},
 }
 ```
